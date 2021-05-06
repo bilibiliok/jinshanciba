@@ -1,7 +1,7 @@
 <template>
 	<div class="home-func">
 		<ul>
-			<li  @mouseenter="showActive(1)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(1)" @mouseleave="showActive(0)">
 				<img v-show="active !== 1" src="//cdn.iciba.com/www/img/www/0312/funclist/1a.png" alt="">
 				<img v-show="active === 1" src="//cdn.iciba.com/www/img/www/0312/funclist/1b.png" alt="">
 				<div>
@@ -10,7 +10,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(2)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(2)" @mouseleave="showActive(0)">
 				<img v-show="active !== 2" src="//cdn.iciba.com/www/img/www/0312/funclist/2a.png" alt="">
 				<img v-show="active === 2" src="//cdn.iciba.com/www/img/www/0312/funclist/2b.png" alt="">
 				<div>
@@ -19,7 +19,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(3)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(3)" @mouseleave="showActive(0)">
 				<img v-show="active !== 3" src="//cdn.iciba.com/www/img/www/0312/funclist/3a.png" alt="">
 				<img v-show="active === 3" src="//cdn.iciba.com/www/img/www/0312/funclist/3b.png" alt="">
 				<div>
@@ -28,7 +28,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(4)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(4)" @mouseleave="showActive(0)">
 				<img v-show="active !== 4" src="//cdn.iciba.com/www/img/www/0312/funclist/4a.png" alt="">
 				<img v-show="active === 4" src="//cdn.iciba.com/www/img/www/0312/funclist/4b.png" alt="">
 				<div>
@@ -37,7 +37,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(5)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(5)" @mouseleave="showActive(0)">
 				<img v-show="active !== 5" src="//cdn.iciba.com/www/img/www/0312/funclist/5a.png" alt="">
 				<img v-show="active === 5" src="//cdn.iciba.com/www/img/www/0312/funclist/5b.png" alt="">
 				<div>
@@ -46,7 +46,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(6)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(6)" @mouseleave="showActive(0)">
 				<img v-show="active !== 6" src="//cdn.iciba.com/www/img/www/0312/funclist/6a.png" alt="">
 				<img v-show="active === 6" src="//cdn.iciba.com/www/img/www/0312/funclist/6b.png" alt="">
 				<div>
@@ -55,7 +55,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(7)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(7)" @mouseleave="showActive(0)">
 				<img v-show="active !== 7" src="//cdn.iciba.com/www/img/www/0312/funclist/7a.png" alt="">
 				<img v-show="active === 7" src="//cdn.iciba.com/www/img/www/0312/funclist/7b.png" alt="">
 				<div>
@@ -64,7 +64,7 @@
 				</div>
 				<div class="home-func-mask"></div>
 			</li>
-			<li  @mouseenter="showActive(8)" @ @mouseleave="showActive(0)">
+			<li  @mouseenter="showActive(8)" @mouseleave="showActive(0)">
 				<img v-show="active !== 8" src="//cdn.iciba.com/www/img/www/0312/funclist/8a.png" alt="">
 				<img v-show="active === 8" src="//cdn.iciba.com/www/img/www/0312/funclist/8b.png" alt="">
 				<div>

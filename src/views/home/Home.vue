@@ -86,7 +86,7 @@ export default {
 	.home{
 		background: #f6f6f6;
 		min-width: 1200px;
-		height: 100%
+		height: 100%;
 		/* min-height: 1000px */
 	}
 	.orderFullScreen{
